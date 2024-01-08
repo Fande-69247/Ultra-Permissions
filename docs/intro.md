@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 功能概述
 
-##  **👑 基础操作 👑** 
+## 基础操作 
 
 `你需要有SuperAdmin权限才可使用本插件！`
 
