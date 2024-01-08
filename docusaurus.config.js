@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
+  title: 'Ultra-Permissions',
   tagline: 'Docusaurus 插件文档模板',
   favicon: 'img/favicon.ico',
 
@@ -14,12 +14,12 @@ const config = {
   url: 'https://fande-69247.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
+  baseUrl: '/Ultra-Permissions/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'fande-69247', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
+  projectName: 'Ultra-Permissions', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/fande-69247/Wiki-Template/blob/main'
+            'https://github.com/fande-69247/Ultra-Permissions/blob/main'
         },
         blog: false,
         theme: {
@@ -59,7 +59,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki-Template',
+        title: 'Ultra-Permissions',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/fande-69247/Wiki-Template',
+            href: 'https://github.com/fande-69247/Ultra-Permissions',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/fande-69247/Wiki-Template',
+                href: 'https://github.com/fande-69247/Ultra-Permissions',
               },
             ],
           },
