@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 所有效果
+# 功能概述
 
 ## add_damage
 
