@@ -8,7 +8,7 @@ sidebar_position: 1
 
 `你需要有SuperAdmin权限才可使用本插件！`
 
- ** [ 权限列表 ]**
+### [ 权限列表 ]
 
 1.输入指令/uperms
 
